@@ -39,6 +39,11 @@
     .about-containers {
       margin-top: 0;
     }
+    .nav-links-container {
+
+        display: none;
+    }
+   
   }
   
   @media screen and (max-width: 600px) {
@@ -91,5 +96,9 @@
     }
     .text-container {
       text-align: justify;
+    }
+    .nav-links-container {
+
+        display: none;
     }
   }
